@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+[![An image of @lordmorpheus's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lordmorpheus)](https://holopin.io/@lordmorpheus)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
